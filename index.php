@@ -315,6 +315,7 @@ $source = highlight_file(__FILE__, true);
                   <a id="email" href="javascript:toggleEmailForm();">Email</a>
                   <a href="http://www.linkedin.com/in/shaunburdick">LinkedIn</a>
                   <a href="http://www.facebook.com/shaunburdick">Facebook</a>
+                  <a href="https://github.com/shaunburdick">GitHub</a>
                 </span>
               </h2>
               <hr/>
